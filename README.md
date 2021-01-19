@@ -11,7 +11,7 @@
 
 :airplane: &nbsp; I am looking forward to contribute & learn hence **You can hire me for remote work**
 
-- :briefcase: &nbsp; Do read my resume here: **[resume link](https://drive.google.com/file/d/1TLV8znWHpCUtnMCZ0uglhpP9BhVYjJAY/view?usp=sharing)**
+- :briefcase: &nbsp; Do read my resume here: **[resume link](https://drive.google.com/file/d/1Bg4cKBfOPtZO1CEllMWmOIKg43AjLNjk/view?usp=sharing)**
 - :mortar_board: &nbsp; Self-taught, developer who has completed a B.Tech in Electronics and Communication in 2019
 - :telescope: &nbsp; Codes in JavaScript frameworks and libraries (Reactjs, Angular, Nodejs etc), experimenting with Open Source
 - :books: &nbsp; Reading more about how computer works, about the universe
