@@ -4,7 +4,7 @@
 **ashish_debnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-:zap: &nbsp; I am a **Software Engineer** from **India** with an experience of 4 years of Frontend experience, currently working in @soroco
+:zap: &nbsp; I am a **Software Engineer** from **India** with 4 years of Frontend experience, currently working in @soroco
 :zap:
 
 :rocket: &nbsp; I've built and deployed products from scratch. I use backend and frontend for the applications following a strict MVC architecture.
