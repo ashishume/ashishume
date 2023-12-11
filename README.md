@@ -5,8 +5,6 @@
 -->
 
 :zap: &nbsp; I am a **Software Engineer** from **India** with 4 years of Frontend experience, currently working in @soroco
-:zap:
-
 :rocket: &nbsp; I've built and deployed products from scratch. I use backend and frontend for the applications following a strict MVC architecture.
 
 :airplane: &nbsp; I am looking forward to contribute & learn hence **You can hire me for remote work**
