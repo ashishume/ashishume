@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashishume](https://github.com/ashishume)
+- 👨‍💻 All of my projects are available at [github link](https://github.com/ashishume)
 
 - 💬 Ask me about **React, Angular, Redux, Cypress**
 
 - 📫 How to reach me **ashishume@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13xeYwv-PDb6HbGC3N_hFlJIbw029EoO7/view?usp=sharing](https://drive.google.com/file/d/13xeYwv-PDb6HbGC3N_hFlJIbw029EoO7/view?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/13xeYwv-PDb6HbGC3N_hFlJIbw029EoO7/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm pro gamer**
 
