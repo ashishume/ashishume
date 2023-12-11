@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Debnath</h1>
-<h3 align="center">I have 4+ years of Frontend experience, currently working in @soroco</h3>
+<h3 align="center">I have 4+ years of Frontend experience, currently working for @soroco</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishume" alt="ashishume" /></a> </p>
 
