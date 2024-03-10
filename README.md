@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashishume@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1qY7yis4Hl4j5D0EKkwKokHPwZh8k3cCS/view?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1x3bYvZfKhU0K_dYI95fwou18MyF5v8Zm/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm pro gamer**
 
