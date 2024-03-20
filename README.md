@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [github repos link](https://github.com/ashishume?tab=repositories)
+- 👨‍💻 You can visit me portfolio website to get more details about myself. [ashishdebnath.com](http://ashishdebnath.com/)
 
 - 💬 Ask me about **React, Angular, Redux, Cypress**
 
