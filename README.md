@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Debnath</h1>
-<h3 align="center">I have 4+ years of Frontend experience, currently working for @soroco</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishume" alt="ashishume" /></a> </p>
+<h3 align="center">I have 4.5+ years of Frontend experience, currently working for @soroco</h3>
 
 - 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 You can visit me portfolio website to get more details about myself. [ashishdebnath.com](http://ashishdebnath.com/)
 
-- 💬 Ask me about **React, Angular, Redux, Cypress**
+- 💬 Ask me about **Javascript, Typescript, React, Angular, Redux, Cypress (anything related to frontend)**
 
 - 📫 How to reach me **ashishume@gmail.com**
 
