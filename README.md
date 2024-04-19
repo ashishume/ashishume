@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashishume@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1x3bYvZfKhU0K_dYI95fwou18MyF5v8Zm/view?usp=drive_link)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1vnpKYSMzAIs_NqbMifJH7hQ8nM5oS8u-/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm pro gamer**
 
