@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Debnath</h1>
 <h3 align="center">I have 5+ years of Frontend experience, currently working for ContentStack</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nextjs** and for backend **Nestjs**
 
 - 👨‍💻 You can visit me portfolio website to get more details about myself. [ashishdebnath.com](http://ashishdebnath.com/)
 
