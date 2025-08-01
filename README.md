@@ -5,11 +5,11 @@
 
 - 👨‍💻 You can visit me portfolio website to get more details about myself. [ashishdebnath.com](http://ashishdebnath.com/)
 
-- 💬 Ask me about **Javascript, Typescript, React, Angular, Redux, Cypress (anything related to frontend)**
+- 💬 Ask me about **Javascript, Typescript, React, Angular, Redux, NestJS (backend)**
 
 - 📫 How to reach me **ashishume@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1h6RTN5Y-4pncKDHCKAggblupZEWJS8LJ/view)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/12yjbdcBNknoyf0gpXUgNSaIPCvPpjSpx/view)
 
 - ⚡ Fun fact **I think I'm pro gamer**
 
