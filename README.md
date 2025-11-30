@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashish Debnath</h1>
 <h3 align="center">I have 6+ years of Frontend experience, currently working for ContentStack</h3>
 
-- 🌱 I’m currently learning **Nextjs** and for backend **Nestjs**
+- 🌱 I’m currently learning **Nextjs** and for backend **FastAPI**
 
 - 👨‍💻 You can visit me portfolio website to get more details about myself. [ashishdebnath.com](http://ashishdebnath.com/)
 
-- 💬 Ask me about **Javascript, Typescript, React, Angular, Redux, NestJS (backend)**
+- 💬 Ask me about **Javascript, Typescript, React, FastAPI, Angular, Redux, NestJS (backend)**
 
 - 📫 How to reach me **ashishume@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/12yjbdcBNknoyf0gpXUgNSaIPCvPpjSpx/view)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1of2cFn7QYQ8wi5onrduao3twXz_GpGnT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm pro gamer**
 
