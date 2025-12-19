@@ -7,12 +7,12 @@
   <h3>👨‍💻 About Me</h3>
   
   <p>
-    Hi there! I'm <b>Ashish Debnath</b>, a passionate Frontend Developer with <b>5+ years of experience</b>. <br>
+    Hi there! I'm <b>Ashish Debnath</b>, a passionate Fullstack Developer with <b>6+ years of experience</b>. <br>
     Currently building cool things at <b><a href="https://github.com/contentstack">ContentStack</a></b>.
   </p>
 
   <p>
-    🌱 I’m currently learning <b>Next.js</b><br>
+    🌱 I’m currently learning <b>FastAPI (Python)</b><br>
     ⚡ Fun fact: I think I'm a pro gamer 🎮<br>
     📫 Reach me at: <a href="mailto:ashishume@gmail.com">ashishume@gmail.com</a>
   </p>
