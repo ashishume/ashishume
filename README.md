@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ashish%20Debnath&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" alt="Ashish Debnath header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ashish%20Debnath&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" alt="Ashish Debnath header" />
 </div>
 
 <div align="center">
