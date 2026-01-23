@@ -3,6 +3,8 @@
 </div>
 
 <div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=ashishume&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
   <h3>👨‍💻 About Me</h3>
   
@@ -12,7 +14,7 @@
   </p>
 
   <p>
-    🌱 I’m currently learning <b>FastAPI (Python)</b><br>
+    🌱 I'm currently learning <b>FastAPI (Python)</b><br>
     ⚡ Fun fact: I think I'm a pro gamer 🎮<br>
     📫 Reach me at: <a href="mailto:ashishume@gmail.com">ashishume@gmail.com</a>
   </p>
