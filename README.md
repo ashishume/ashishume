@@ -22,7 +22,7 @@
   </p>
 
   <a href="https://ashishdebnath.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ashishdebnath.com-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ashishdebnath.in-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ashishume" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
