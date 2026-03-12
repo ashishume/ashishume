@@ -18,10 +18,10 @@
     ⚡ Fun fact: I think I'm a pro gamer 🎮<br>
     📫 Reach me at: <a href="mailto:ashishume@gmail.com">ashishume@gmail.com</a>
     <br/>
-    Find my resume : <a href="https://drive.google.com/file/d/1kPgnuduif9IINq5jgvSYZz1RhOdXmBIS/view?usp=sharing">Resume</a>
+    Find my resume : <a href="[https://drive.google.com/file/d/1kPgnuduif9IINq5jgvSYZz1RhOdXmBIS/view?usp=sharing](https://drive.google.com/file/d/1hRcuP1hcW0T6JqyfO4ai3utMt3CkBnJl/view?usp=sharing)">Resume</a>
   </p>
 
-  <a href="https://ashishdebnath.com" target="_blank">
+  <a href="https://ashishdebnath.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ashishdebnath.com-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ashishume" target="_blank">
