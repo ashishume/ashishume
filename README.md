@@ -18,7 +18,7 @@
     ⚡ Fun fact: I think I'm a pro gamer 🎮<br>
     📫 Reach me at: <a href="mailto:ashishume@gmail.com">ashishume@gmail.com</a>
     <br/>
-    Find my resume : <a href="https://drive.google.com/file/d/1kQard3hFdSzrj31GopB90rfxH7jYlwEJ/view">Resume</a>
+    Find my resume : <a href="https://drive.google.com/file/d/1HpEMQMAlLXpj3mEJZ-M0n_51XAVMIbB7/view">Resume</a>
   </p>
 
   <a href="https://ashishdebnath.in" target="_blank">
